@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -808,4 +807,3 @@ if( "" != mobileStatsQueryString ) {
         overflow: hidden;
     }</style><img src="https://pixel.wp.com/g.gif?blog=201706991&amp;v=wpcom&amp;tz=7&amp;user=1&amp;user_id=215980900&amp;post=2&amp;subd=michaelbonar0021&amp;host=michaelbonar0021.wordpress.com&amp;ref=&amp;rand=0.14791226251242828" alt=":)" id="wpstats"><div class="comment-likes-overlay" style="display: none;"></div><script src="https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20211028" defer=""></script><a class="ab-item grav-tilt-parent" href="https://wordpress.com/me/" style="top: 5.25px; left: 1270px;"></a>
     </body>
-</html>
